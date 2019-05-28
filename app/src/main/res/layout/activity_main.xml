@@ -23,6 +23,12 @@
         android:layout_height="wrap_content"
         android:text="Operation"/>
 
+    <TextView
+        android:id="@+id/tvAnswer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""/>
+
     <Button
         android:id="@+id/btnReset"
         android:layout_marginTop="10dp"
